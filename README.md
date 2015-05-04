@@ -5,4 +5,8 @@ A php solution - focused on the interface. A system integration project - focuse
 
 TOML is a greate format choosed for allmost all kind of configuration. Twig will do the templates. Symfony/DependencyInjections fit. Caring for the deployment source authentifivćation by DNSCurve - eliptic curves inclusive. VMwarePlayer as the endusers installation platform in mind. Deploying a virtual machine.
 
-The [[Wiki|#welcome-to-the-slim-deploy-wiki]]
+Take attention to the [Wiki](https://github.com/jhKISS/slim-deploy/wiki/Wiki-%7C-introduction)
+
+Licence
+- for the code: [Apache 2.0](http://opensource.org/licenses/Apache-2.0)
+- for the content: Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
