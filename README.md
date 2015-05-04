@@ -3,6 +3,6 @@ Continuous development of a slim, secure, simple and sustained deployment soluti
 
 A php solution - focused on the interface. A system integration project - focused on the projects interests. Developed in symfony. Open for add-ins which comes as reusable bundles.
 
-TOML is a greate format choosed für allmost all kind of configuration. Twig will do the templates. Symfony/DependencyInjections fit. Caring for the deployment source authentifivćation by DNSCurve - eliptic curves inclusive. VMwarePlayer as the endusers installation platform in mind. Deploying a virtual machine.
+TOML is a greate format choosed for allmost all kind of configuration. Twig will do the templates. Symfony/DependencyInjections fit. Caring for the deployment source authentifivćation by DNSCurve - eliptic curves inclusive. VMwarePlayer as the endusers installation platform in mind. Deploying a virtual machine.
 
 The [[Wiki|#welcome-to-the-slim-deploy-wiki]]
